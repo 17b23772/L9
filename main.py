@@ -21,7 +21,8 @@ def jokes() :
     score = score -1
     print(score)
     
-if 1 == 1 jokes()
+if score == -1:
+   jokes()
 
 
 

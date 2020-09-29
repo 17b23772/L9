@@ -12,4 +12,6 @@ a = str(input())
 if a == str("Pink Fluff"):
   print ("You are Correct")
   score = score + 1
+else:
+  print ("")
 print ("\n")
